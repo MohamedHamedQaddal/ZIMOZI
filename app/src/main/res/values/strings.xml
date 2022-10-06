@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zimozi</string>
+    <string name="default_notification_channel_id">channelId</string>
+    <string name="default_notification_channel_name">channelName</string>
+    <string name="workmanager_notification">WorkManager Notification</string>
+    <string name="workmanager_notification_text">WorkManager Notification delivered successfully</string>
+    <string name="alarmmanager_notification">AlarmManager Notification</string>
+    <string name="alarmmanager_notification_text">AlarmManager Notification delivered successfully</string>
+</resources>
